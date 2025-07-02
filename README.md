@@ -1,6 +1,6 @@
 # 📊 Dashboard Planeación Panovo - Power BI
 
-Este repositorio contiene un ejemplo real de implementación de un dashboard de Power BI conectado a SQL Server, orientado al análisis de ventas de la industria panificadora.
+Este repositorio contiene un ejemplo real de implementación de una solución en SharePoint orientada al control y gestión del uso de tarimas CHEP. 
 
 ---
 
